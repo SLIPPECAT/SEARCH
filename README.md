@@ -15,3 +15,7 @@
 ## DATA
 ### 구텐베르크 프로젝트
 > https://www.gutenberg.org/
+
+## ALGORITHM
+### 문자열 일치
+#### 자카드 척도
