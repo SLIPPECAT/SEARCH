@@ -16,7 +16,7 @@
 
 - Word2Vec 클래스 관련 종속성 주입
 ```Maven
-<dependency>
+   <dependency>
        <groupId>org.deeplearning4j</groupId>
        <artifactId>deeplearning4j-core</artifactId>
        <version>1.0.0-M2.1</version>
