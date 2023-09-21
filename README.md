@@ -19,6 +19,8 @@
 ## DATA
 ### 구텐베르크 프로젝트
 > https://www.gutenberg.org/
+### 불용어 사전 (한글)
+> https://www.ranks.nl/stopwords/korean
 
 ## ALGORITHM
 ### 문자열 일치
