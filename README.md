@@ -21,6 +21,8 @@
 > https://www.gutenberg.org/
 ### 불용어 사전 (한글)
 > https://www.ranks.nl/stopwords/korean
+### 병렬 말뭉치 (OPUS)
+> https://opus.nlpl.eu/
 
 ## ALGORITHM
 ### 문자열 일치
@@ -29,3 +31,7 @@
 ## 도전할 만한 과제
 - 검색 기능이 들어간 사이트들의 검색 기능 점검 및 개선점 파악
 - 랭킹 작업에 사용되는 알고리즘 개선
+
+## 읽을 만한 책
+|제목|사용 언어|
+|검색을 위한 딥러닝| 자바
