@@ -19,7 +19,7 @@
 ## DATA
 ### 구텐베르크 프로젝트
 > https://www.gutenberg.org/
-### 사전 (한글)
+### 불용어 사전 (한글)
 > https://www.ranks.nl/stopwords/korean
 ### 병렬 말뭉치 (OPUS)
 > https://opus.nlpl.eu/
