@@ -23,3 +23,9 @@
        <version>1.0.0-M2.1</version>
    </dependency>
 ```
+
+### Korean English Keystroke Transform
+#### 역할: dkssudgktpdy -> 안녕하세요
+```Gradle
+implementation 'com.github.arinyaho:inko4j:1.1.1'
+```
