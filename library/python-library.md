@@ -1,5 +1,8 @@
+- 주피터 노트북에서 실행한 것을 바탕으로 적었습니다.
+
 ### hwp 전처리
 ```Python
+# 라이브러리 설치
 !pip install olefile
 import olefile
 ```
