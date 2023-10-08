@@ -29,7 +29,7 @@
 - 국립국어원 - 외래어 표기법 (xlsx 파일)
 > https://kornorms.korean.go.kr//example/exampleList.do
 - 외래어 <-> 한글 표기 상호 변환기
-- > http://loanword.cs.pusan.ac.kr/
+> http://loanword.cs.pusan.ac.kr/
 
 ### 영어 단어 자료
 - Word frequency
@@ -50,4 +50,5 @@
 | 번호  | 제목  | 사용 언어  | 난이도  |
 |--------|--------|--------|--------|
 | 1  | 검색을 위한 딥러닝  | 자바  | ⭐️⭐️ |
+
 
