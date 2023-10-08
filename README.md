@@ -23,6 +23,20 @@
 > https://www.ranks.nl/stopwords/korean
 ### 병렬 말뭉치 (OPUS)
 > https://opus.nlpl.eu/
+### 외래어 자료
+- 국립국어원 - 외래어 일반용어 (hwp 파일)
+> https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=322&pageIndex=1
+- 국립국어원 - 외래어 표기법 (xlsx 파일)
+> https://kornorms.korean.go.kr//example/exampleList.do
+- 외래어 <-> 한글 표기 상호 변환기
+- > http://loanword.cs.pusan.ac.kr/
+
+### 영어 단어 자료
+- Word frequency
+> https://www.wordfrequency.info/samples.asp
+- kaggle
+> https://www.kaggle.com/datasets/rtatman/english-word-frequency/
+
 
 ## ALGORITHM
 ### 문자열 일치
