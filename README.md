@@ -37,6 +37,10 @@
 - kaggle
 > https://www.kaggle.com/datasets/rtatman/english-word-frequency/
 
+### 머신러닝 자료
+- 언어 정보 나눔터
+> https://corpus.korean.go.kr/
+
 
 ## ALGORITHM
 ### 문자열 일치
