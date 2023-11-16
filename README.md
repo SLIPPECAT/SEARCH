@@ -43,7 +43,7 @@
 - 언어 정보 나눔터
 > https://corpus.korean.go.kr/
 
-## DATA
+## 분석기
 ### 한글 형태소 분석기
 - 아리랑 분석기
 > https://github.com/korlucene
@@ -72,6 +72,11 @@
 > https://en.wikipedia.org/wiki/BK-tree
 #### Unlocking the Power of NLP: A Deep Dive into Text Preprocessing Steps
 > https://blog.stackademic.com/unlocking-the-power-of-nlp-a-deep-dive-into-text-preprocessing-steps-8eb5dfe8b94
+
+## 도전할 만한 과제
+### json
+#### JSON is incredibly slow: Here’s What’s Faster!
+> https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8
 
 ## 도전할 만한 과제
 - 검색 기능이 들어간 사이트들의 검색 기능 점검 및 개선점 파악
