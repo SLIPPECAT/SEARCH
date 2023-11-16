@@ -43,9 +43,20 @@
 - 언어 정보 나눔터
 > https://corpus.korean.go.kr/
 
+## DATA
+### 한글 형태소 분석기
+- 아리랑 분석기
+> https://github.com/korlucene
+- 꼬꼬마 형태소 분석기
+> http://kkma.snu.ac.kr/
+- 코모란 형태소 분석기
+> https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo
+
 ## ALGORITHM
 ### 문자열 일치
 #### 자카드 척도
+### TF-IDF
+> https://blog.naver.com/divdivdiv
 
 ## About Spell Check
 ### 검색어 제안, 맞춤법 검사(단어교정)
