@@ -51,6 +51,8 @@
 > http://kkma.snu.ac.kr/
 - 코모란 형태소 분석기
 > https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo
+- 바른 한글 형태소 분석기
+> https://github.com/bareun-nlp/korean-ambiguity-data
 
 ## ALGORITHM
 ### 문자열 일치
