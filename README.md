@@ -41,25 +41,25 @@
 ### 병렬 말뭉치 (OPUS)
 > https://opus.nlpl.eu/
 ### 외래어 자료
+### 외래어 자료
 | 자료 이름                     | 링크                                                                                                 |
 | -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 외래어 일반용어 (hwp 파일)   | [국립국어원 - 외래어 일반용어](https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=322&pageIndex=1) |
-| 외래어 표기법 (xlsx 파일)    | [국립국어원 - 외래어 표기법](https://kornorms.korean.go.kr//example/exampleList.do)                    |
-| 외래어 <-> 한글 표기 변환기  | [외래어 <-> 한글 표기 변환기](http://loanword.cs.pusan.ac.kr/)                                       |
+| 외래어 일반용어 (hwp 파일)   | <https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=322&pageIndex=1>              |
+| 외래어 표기법 (xlsx 파일)    | <https://kornorms.korean.go.kr//example/exampleList.do>                                               |
+| 외래어 <-> 한글 표기 변환기  | <http://loanword.cs.pusan.ac.kr/>                                                                    |
 
 ### 한글 단어 자료
 | 자료 이름                     | 링크                                                                                                 |
 | -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| hunspell 한국어 맞춤법 사전   | [hunspell 한국어 맞춤법 사전](https://github.com/spellcheck-ko/hunspell-dict-ko)                     |
-| 국립 국어원 사전              | [국립 국어원 사전](https://github.com/spellcheck-ko/korean-dict-nikl)                                 |
+| hunspell 한국어 맞춤법 사전   | <https://github.com/spellcheck-ko/hunspell-dict-ko>                                                   |
+| 국립 국어원 사전              | <https://github.com/spellcheck-ko/korean-dict-nikl>                                                  |
 
 ### 영어 단어 자료
 | 자료 이름                     | 링크                                                                                                 |
 | -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Word frequency              | [Word frequency](https://www.wordfrequency.info/samples.asp)                                          |
-| kaggle                       | [kaggle - English Word Frequency](https://www.kaggle.com/datasets/rtatman/english-word-frequency/)   |
-| google research              | [Google Research - All Our N-gram Are Belong to You](https://blog.research.google/2006/08/all-our-n-gram-are-belong-to-you.html?source=post_page-----bd8767957a84--------------------------------) |
-
+| Word frequency              | <https://www.wordfrequency.info/samples.asp>                                                         |
+| kaggle                       | <https://www.kaggle.com/datasets/rtatman/english-word-frequency/>                                    |
+| google research              | <https://blog.research.google/2006/08/all-our-n-gram-are-belong-to-you.html?source=post_page-----bd8767957a84--------------------------------> |
 
 ### 머신러닝 자료
 - 언어 정보 나눔터
@@ -69,10 +69,11 @@
 ### 한글 형태소 분석기
 | 형태소 분석기               | 링크                                        |
 | -------------------------- | ------------------------------------------ |
-| 아리랑 분석기               | [https://github.com/korlucene](https://github.com/korlucene) |
-| 꼬꼬마 형태소 분석기        | [http://kkma.snu.ac.kr/](http://kkma.snu.ac.kr/)        |
-| 코모란 형태소 분석기        | [https://www.shineware.co.kr/products/komoran](https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo) |
-| 바른 한글 형태소 분석기    | [https://github.com/bareun-nlp/korean-ambiguity-data](https://github.com/bareun-nlp/korean-ambiguity-data) |
+| 아리랑 분석기               | <https://github.com/korlucene> |
+| 꼬꼬마 형태소 분석기        | <http://kkma.snu.ac.kr/>        |
+| 코모란 형태소 분석기        | <https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo> |
+| 바른 한글 형태소 분석기    | <https://github.com/bareun-nlp/korean-ambiguity-data> |
+
 
 
 ## ALGORITHM
