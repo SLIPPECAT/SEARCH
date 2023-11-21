@@ -40,7 +40,7 @@
 > https://www.ranks.nl/stopwords/korean
 ### 병렬 말뭉치 (OPUS)
 > https://opus.nlpl.eu/
-### 외래어 자료
+
 ### 외래어 자료
 | 자료 이름                     | 링크                                                                                                 |
 | -------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -74,12 +74,11 @@
 | 코모란 형태소 분석기        | <https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo> |
 | 바른 한글 형태소 분석기    | <https://github.com/bareun-nlp/korean-ambiguity-data> |
 
-
-
 ## ALGORITHM
 ### 문자열 일치
 #### 레벤스타인 거리
 #### 자카드 척도
+#### NGram 편집거리
 ### TF-IDF
 > https://blog.naver.com/divdivdiv
 
