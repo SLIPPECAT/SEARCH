@@ -22,6 +22,8 @@
 > https://mgubaidullin.github.io/deeplearning4j-docs/programmingguide/01_intro
 
 ## LIBRARY (for Python)
+### NLTK (Natural Language ToolKit)
+> https://www.nltk.org/
 ### 사이킷런
 > https://scikit-learn.org/stable/
 
@@ -32,7 +34,8 @@
 > https://github.com/e9t/nsmc
 ### 네이버 뉴스 분류 (NNST 파이썬 라이브러리 형태로 제공)
 > https://github.com/jason9693/NNST-Naver-News-for-Standard-and-Technology-Database
-
+### 50 Years of Pop Music Lyrics
+> https://github.com/walkerkq/musiclyrics
 ### 불용어 사전 (한글)
 > https://www.ranks.nl/stopwords/korean
 ### 병렬 말뭉치 (OPUS)
@@ -44,7 +47,11 @@
 > https://kornorms.korean.go.kr//example/exampleList.do
 - 외래어 <-> 한글 표기 상호 변환기
 > http://loanword.cs.pusan.ac.kr/
-
+### 한글 단어 자료
+- hunspell 한국어 맞춤법 사전
+> https://github.com/spellcheck-ko/hunspell-dict-ko
+- 국립 국어원 사전
+> https://github.com/spellcheck-ko/korean-dict-nikl
 ### 영어 단어 자료
 - Word frequency
 > https://www.wordfrequency.info/samples.asp
@@ -67,9 +74,11 @@
 > https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo
 - 바른 한글 형태소 분석기
 > https://github.com/bareun-nlp/korean-ambiguity-data
+- hun spell
 
 ## ALGORITHM
 ### 문자열 일치
+#### 레벤스타인 거리
 #### 자카드 척도
 ### TF-IDF
 > https://blog.naver.com/divdivdiv
@@ -93,6 +102,10 @@
 ### json
 #### JSON is incredibly slow: Here’s What’s Faster!
 > https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8
+
+## 유틸
+### KoreanPostPositionUtil
+> https://github.com/inkyfox/KoreanPostPositionUtil
 
 ## 도전할 만한 과제
 - 검색 기능이 들어간 사이트들의 검색 기능 점검 및 개선점 파악
