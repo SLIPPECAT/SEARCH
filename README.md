@@ -9,16 +9,30 @@
 2. 검색(또는 질의)
 3. 스코어링(또는 랭킹)
 
-## LIBRARY
+### 문서를 추출하는 방법
+1. BOW(Bag of Words) : 단어별 카운트를 기반으로 문서로부터 특성을 추출하고 표현하는 방식 (단어의 출현 통계를 이용하는 방식)
+   1) 단어의 사용 여부만 표시하는 방법
+   2) 단어 수를 표시하는 방법
+   3) 단어가 문서에 나타난 수를 반영해 보정하는 방법
+
+## LIBRARY (for Java)
 ### 정보 검색 라이브러리 - 아파치 루씬
 > https://lucene.apache.org/
-
 ### 딥러닝 라이브러리 - Deeplearning4j
 > https://mgubaidullin.github.io/deeplearning4j-docs/programmingguide/01_intro
+
+## LIBRARY (for Python)
+### 사이킷런
+> https://scikit-learn.org/stable/
 
 ## DATA
 ### 구텐베르크 프로젝트
 > https://www.gutenberg.org/
+### 네이버 영화 리뷰 (테스트 파일로 제공)
+> https://github.com/e9t/nsmc
+### 네이버 뉴스 분류 (NNST 파이썬 라이브러리 형태로 제공)
+> https://github.com/jason9693/NNST-Naver-News-for-Standard-and-Technology-Database
+
 ### 불용어 사전 (한글)
 > https://www.ranks.nl/stopwords/korean
 ### 병렬 말뭉치 (OPUS)
@@ -75,7 +89,7 @@
 #### Unlocking the Power of NLP: A Deep Dive into Text Preprocessing Steps
 > https://blog.stackademic.com/unlocking-the-power-of-nlp-a-deep-dive-into-text-preprocessing-steps-8eb5dfe8b94
 
-## 도전할 만한 과제
+## 파일
 ### json
 #### JSON is incredibly slow: Here’s What’s Faster!
 > https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8
@@ -84,9 +98,10 @@
 - 검색 기능이 들어간 사이트들의 검색 기능 점검 및 개선점 파악
 - 랭킹 작업에 사용되는 알고리즘 개선
 
-## 읽을 만한 책
+## 관련 읽을 만한 책
 | 번호  | 제목  | 사용 언어  | 난이도  |
 |--------|--------|--------|--------|
 | 1  | 검색을 위한 딥러닝  | 자바  | ⭐️⭐️ |
+| 2  | 파이썬 텍스트 마이닝  | 파이썬  | ⭐️ |
 
 
