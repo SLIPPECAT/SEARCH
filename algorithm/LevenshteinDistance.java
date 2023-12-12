@@ -1,5 +1,6 @@
 public class LevenshteinDistance {
 
+    // 동적 프로그래밍을 이용한 레벤슈타인 거리
     private int getDistance(String s1, String s2){
         int len1 = s1.length();
         int len2 = s2.length();
@@ -25,7 +26,8 @@ public class LevenshteinDistance {
         return dp[len1][len2];
     }
 
-    private int getDistance(char[] s, char[] t){
+    // 편집 거리 정규화
+    private double getDistance(char[] s, char[] t){
         int m = s.length;
         int n = t.length;
 
@@ -53,16 +55,23 @@ public class LevenshteinDistance {
 
             }
         }
-        return d[m][n];
+
+        int distance = d[m][n];
+        int normLength = Math.max(m, n);
+
+        return (double) (normLength - distance) / normLength;
     }
+
+    // 다메로 레벤슈타인(Damerau-Levenshtein) 거리
+    // 인접 문자의 치환데 대한 추가적인 연산 허용
 
     public static void main(String[] args) {
         String s1 = "book";
         String s2 = "boom";
         LevenshteinDistance led = new LevenshteinDistance();
         int distance = led.getDistance(s1, s2);
-        int distance2 = led.getDistance(s1.toCharArray(), s2.toCharArray());
+        double distance2 = led.getDistance(s1.toCharArray(), s2.toCharArray());
         System.out.println("distance = " + distance);  // 1
-        System.out.println("distance2 = " + distance2);  // 1
+        System.out.println("distance2 = " + distance2);  // 0.75
     }
 }
