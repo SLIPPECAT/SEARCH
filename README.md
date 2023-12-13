@@ -50,6 +50,7 @@
 - 50 Years of Pop Music Lyrics
 - 불용어 사전 (한글)
 - 병렬 말뭉치 (OPUS)
+> https://github.com/SLIPPECAT/SEARCH/tree/main/data
 
 ### 머신러닝 자료
 - 언어 정보 나눔터
