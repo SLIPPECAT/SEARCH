@@ -14,101 +14,46 @@
    1) 단어의 사용 여부만 표시하는 방법
    2) 단어 수를 표시하는 방법
    3) 단어가 문서에 나타난 수를 반영해 보정하는 방법
+  
+## ALGORITHM
+- 문자열 일치
+- 레벤슈타인 거리
+- 자카드 척도
+- NGram 편집거리
+- TF-IDF
+> https://github.com/SLIPPECAT/SEARCH/tree/main/algorithm
 
-## LIBRARY (for Java)
-### 정보 검색 라이브러리 - 아파치 루씬
-> https://lucene.apache.org/
-### 딥러닝 라이브러리 - Deeplearning4j
-> https://mgubaidullin.github.io/deeplearning4j-docs/programmingguide/01_intro
+- ## LIBRARY
+- Java
+- Python
+> https://github.com/SLIPPECAT/SEARCH/blob/main/library/README.md
 
-## LIBRARY (for Python)
-### NLTK (Natural Language ToolKit)
-> https://www.nltk.org/
-### 사이킷런
-> https://scikit-learn.org/stable/
-
-## DATA
-### 구텐베르크 프로젝트
-> https://www.gutenberg.org/
-### 네이버 영화 리뷰 (테스트 파일로 제공)
-> https://github.com/e9t/nsmc
-### 네이버 뉴스 분류 (NNST 파이썬 라이브러리 형태로 제공)
-> https://github.com/jason9693/NNST-Naver-News-for-Standard-and-Technology-Database
-### 50 Years of Pop Music Lyrics
-> https://github.com/walkerkq/musiclyrics
-### 불용어 사전 (한글)
-> https://www.ranks.nl/stopwords/korean
-### 병렬 말뭉치 (OPUS)
-> https://opus.nlpl.eu/
-
-### 외래어 자료
-| 자료 이름                     | 링크                                                                                                 |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 외래어 일반용어 (hwp 파일)   | <https://www.korean.go.kr/front/etcData/etcDataView.do?mn_id=46&etc_seq=322&pageIndex=1>              |
-| 외래어 표기법 (xlsx 파일)    | <https://kornorms.korean.go.kr//example/exampleList.do>                                               |
-| 외래어 <-> 한글 표기 변환기  | <http://loanword.cs.pusan.ac.kr/>                                                                    |
-
-### 한글 단어 자료
-| 자료 이름                     | 링크                                                                                                 |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| hunspell 한국어 맞춤법 사전   | <https://github.com/spellcheck-ko/hunspell-dict-ko>                                                   |
-| 국립 국어원 사전              | <https://github.com/spellcheck-ko/korean-dict-nikl>                                                  |
-
-### 영어 단어 자료
-| 자료 이름                     | 링크                                                                                                 |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Word frequency              | <https://www.wordfrequency.info/samples.asp>                                                         |
-| kaggle                       | <https://www.kaggle.com/datasets/rtatman/english-word-frequency/>                                    |
-| google research              | <https://blog.research.google/2006/08/all-our-n-gram-are-belong-to-you.html?source=post_page-----bd8767957a84--------------------------------> |
-
-### 머신러닝 자료
-- 언어 정보 나눔터
-> https://corpus.korean.go.kr/
-
-## 분석기
 ### 한글 형태소 분석기
 | 형태소 분석기               | 링크                                        |
 | -------------------------- | ------------------------------------------ |
+| 키위 형태소 분석기               | <https://github.com/bab2min/Kiwi?tab=readme-ov-file> |
 | 아리랑 분석기               | <https://github.com/korlucene> |
 | 꼬꼬마 형태소 분석기        | <http://kkma.snu.ac.kr/>        |
 | 코모란 형태소 분석기        | <https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo> |
 | 바른 한글 형태소 분석기    | <https://github.com/bareun-nlp/korean-ambiguity-data> |
 
-## ALGORITHM
-### 문자열 일치
-#### 레벤스타인 거리
-#### 자카드 척도
-#### NGram 편집거리
-### TF-IDF
-> https://blog.naver.com/divdivdiv
-
-## About Spell Check
-### 검색어 제안, 맞춤법 검사(단어교정)
-> https://heegyukim.medium.com/%EA%B2%80%EC%83%89%EC%96%B4-%EC%A0%9C%EC%95%88-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC-%EB%8B%A8%EC%96%B4%EA%B5%90%EC%A0%95-bd8767957a84
-### Wolf garbe's blog
-#### 1000x faster Spelling Correction
-> https://towardsdatascience.com/symspellcompound-10ec8f467c9b
-#### 1000x Faster Spelling Correction algorithm (2012)
-> https://wolfgarbe.medium.com/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f
-#### SymSpell vs. BK-tree: 100x faster fuzzy string search & spell checking
-> https://towardsdatascience.com/symspell-vs-bk-tree-100x-faster-fuzzy-string-search-spell-checking-c4f10d80a078
-#### BK-Tree
-> https://en.wikipedia.org/wiki/BK-tree
-#### Unlocking the Power of NLP: A Deep Dive into Text Preprocessing Steps
-> https://blog.stackademic.com/unlocking-the-power-of-nlp-a-deep-dive-into-text-preprocessing-steps-8eb5dfe8b94
-
-## 파일
-### json
-#### JSON is incredibly slow: Here’s What’s Faster!
-> https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8
-
-## 유틸
-### KoreanPostPositionUtil
-> https://github.com/inkyfox/KoreanPostPositionUtil
-
 ## 도전할 만한 과제
 - 검색 기능이 들어간 사이트들의 검색 기능 점검 및 개선점 파악
 - 랭킹 작업에 사용되는 알고리즘 개선
+- 색인 최적화
+- 형태소 분석기의 성능, 또는 속도 개선
+
+## DATA
+- 구텐베르크 프로젝트
+- 네이버 영화 리뷰 (테스트 파일로 제공)
+- 네이버 뉴스 분류 (NNST 파이썬 라이브러리 형태로 제공)
+- 50 Years of Pop Music Lyrics
+- 불용어 사전 (한글)
+- 병렬 말뭉치 (OPUS)
+
+### 머신러닝 자료
+- 언어 정보 나눔터
+> https://corpus.korean.go.kr/
 
 ## 관련 읽을 만한 책
 | 번호  | 제목  | 사용 언어  | 난이도  |
