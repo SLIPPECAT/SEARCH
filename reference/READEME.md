@@ -12,3 +12,9 @@
 > https://en.wikipedia.org/wiki/BK-tree
 #### Unlocking the Power of NLP: A Deep Dive into Text Preprocessing Steps
 > https://blog.stackademic.com/unlocking-the-power-of-nlp-a-deep-dive-into-text-preprocessing-steps-8eb5dfe8b94
+
+
+## 파일
+### json
+#### JSON is incredibly slow: Here’s What’s Faster!
+> https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8
