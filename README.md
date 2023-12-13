@@ -31,10 +31,10 @@
 ### 한글 형태소 분석기
 | 형태소 분석기               | 링크                                        |
 | -------------------------- | ------------------------------------------ |
-| 키위 형태소 분석기               | <https://github.com/bab2min/Kiwi?tab=readme-ov-file> |
-| 아리랑 분석기               | <https://github.com/korlucene> |
-| 꼬꼬마 형태소 분석기        | <http://kkma.snu.ac.kr/>        |
-| 코모란 형태소 분석기        | <https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo> |
+| 키위               | <https://github.com/bab2min/Kiwi?tab=readme-ov-file> |
+| 아리랑              | <https://github.com/korlucene> |
+| 꼬꼬마        | <http://kkma.snu.ac.kr/>        |
+| 코모란        | <https://www.shineware.co.kr/products/komoran/#demo?utm_source=komoran-kr&utm_medium=Referral&utm_campaign=github-demo> |
 | 바른 한글 형태소 분석기    | <https://github.com/bareun-nlp/korean-ambiguity-data> |
 
 ## 도전할 만한 과제
