@@ -1,15 +1,15 @@
 # 리그오브레전드 데이터
 
-## 목적
+## 목적 ##
 - 여러 API의 발음 변환 확인
 
-## 파일
+## 파일 ##
 - lol_player_list.csv
-## 데이터 구조
+## 데이터 구조 ##
 - 선수이름,닉네임(영문),최근소속
 - 예시) 이상혁,Faker,T1
 
-## 데이터 수집
+## 데이터 수집 ##
 ### 리그오브레전드 기록실
 > https://lol.inven.co.kr/dataninfo/match/playerTotal.php
 
