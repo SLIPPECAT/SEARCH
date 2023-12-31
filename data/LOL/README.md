@@ -5,9 +5,16 @@
 
 ## 파일 ##
 - lol_player_list.csv
+
 ## 데이터 구조 ##
-- 선수이름,닉네임(영문),최근소속
-- 예시) 이상혁,Faker,T1
+- column : name, nickname, team
+- row 1 : 이상혁,Faker,T1
+
+### 파일 설명
+1. player_infos : 리그오브레전드 기록실 크롤링 데이터
+2. player_infos_v1 : DeepL Api를 이용한 번역데이터 추가, 기존 칼럼 + 추가된 칼럼 ('DeepL_translation') 
+3. player_infos_v2 : Papago Api를 이용한 번역데이터 추가, 기존 칼럼 + 추가된 칼럼 ('Papago_transltaion')
+4. player_infos_final : player_infos_v1, player_infos_v2를 merge한 파일 (전체 칼럼 name, nickname, team, DeepL_translation, Papago_transltaion)
 
 ## 데이터 수집 ##
 ### 리그오브레전드 기록실
