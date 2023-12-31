@@ -3,9 +3,6 @@
 ## 목적 ##
 - 여러 API의 발음 변환(영어 -> 한글) 확인
 
-## 파일 ##
-- lol_player_list.csv
-
 ## 데이터 구조 ##
 - column : name, nickname, team
 - row 1 : 이상혁,Faker,T1
