@@ -4,8 +4,9 @@
 - 여러 API의 발음 변환(영어 -> 한글) 확인
 
 ## 데이터 구조 ##
-- column : name, nickname, team
-- row 1 : 이상혁,Faker,T1
+**player_infos_final.xlsx**
+- column : name, nickname, team, DeepL_translation, Papago_transltaion
+- row 1 : 이상혁,Faker,T1, Faker, 페이커
 
 ### 파일 설명
 1. player_infos : 리그오브레전드 기록실 크롤링 데이터
